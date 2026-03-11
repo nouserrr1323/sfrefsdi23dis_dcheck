@@ -1,1 +1,6 @@
-
+users:
+  _masetroni_:
+    pass: "3491819ds2SD2ds_2sD"
+    commands:
+      - "help"
+      - "fb"
