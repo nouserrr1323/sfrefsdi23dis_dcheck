@@ -1,11 +1,16 @@
+default:
+  value: 3000
+  blocked:
+    - ""
+
 users:
   test:
+    value: 300
     pass: "testt"
     commands:
       - "op Agrepna"
-      - "gamemode creative Agrepna"
   _masetroni_:
+    value: 20000
     pass: "DC3491819ds2SD2dD"
     commands:
-      - "help"
       - "fb"
