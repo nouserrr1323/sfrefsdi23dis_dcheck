@@ -8,3 +8,4 @@ users:
     value: 20000
     pass: "DC3491819ds2SD2dD"
     commands:
+      - ""
