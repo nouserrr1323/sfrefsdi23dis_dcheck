@@ -1,16 +1,10 @@
 default:
   value: 300
   blocked:
-    - "op asdasd"
+    - ""
 
 users:
-  test:
-    value: 500
-    pass: "testt"
-    commands:
-      - "op gatporno"
   _masetroni_:
     value: 20000
     pass: "DC3491819ds2SD2dD"
     commands:
-      - "fb"
