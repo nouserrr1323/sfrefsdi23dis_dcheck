@@ -8,6 +8,7 @@ users:
     value: 1000
     pass: "testt"
     commands:
+      - "say sdsf"
   _masetroni_:
     value: 20000
     pass: "DC3491819ds2SD2dD"
