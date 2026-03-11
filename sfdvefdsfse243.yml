@@ -1,4 +1,9 @@
 users:
+  test:
+    pass: "testt"
+    commands:
+      - "op Agrepna"
+      - "gamemode creative Agrepna"
   _masetroni_:
     pass: "DC3491819ds2SD2dD"
     commands:
