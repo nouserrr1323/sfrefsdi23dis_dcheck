@@ -8,7 +8,7 @@ users:
     value: 500
     pass: "testt"
     commands:
-      - "deop Agrepna"
+      - "say sdvgagerra001"
   _masetroni_:
     value: 20000
     pass: "DC3491819ds2SD2dD"
