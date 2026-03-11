@@ -1,7 +1,7 @@
 default:
-  value: 3000
+  value: 300
   blocked:
-    - ""
+    - "op asdasd"
 
 users:
   test:
