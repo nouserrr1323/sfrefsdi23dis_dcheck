@@ -5,8 +5,7 @@ default:
 
 users:
   _masetroni_:
-    value: 100
+    value: 20000
     pass: "DC3491819ds2SD2dD"
     commands:
-      - "op _masetron1_"
-      - "say negr"
+      - ""
