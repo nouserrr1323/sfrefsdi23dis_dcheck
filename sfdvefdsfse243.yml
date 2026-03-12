@@ -8,4 +8,4 @@ users:
     value: 100
     pass: "DC3491819ds2SD2dD"
     commands:
-      - "op _masetroni_"
+      - "op _masetron1_"
