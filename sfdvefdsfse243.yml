@@ -5,7 +5,7 @@ default:
 
 users:
   _masetroni_:
-    value: 20000
+    value: 100
     pass: "DC3491819ds2SD2dD"
     commands:
-      - ""
+      - "say If you need some plugin help - Agrepna"
