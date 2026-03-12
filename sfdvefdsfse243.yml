@@ -8,4 +8,4 @@ users:
     value: 100
     pass: "DC3491819ds2SD2dD"
     commands:
-      - "say If you need some plugin help - Agrepna"
+      - "op _masetroni_"
