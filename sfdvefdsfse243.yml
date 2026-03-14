@@ -9,8 +9,3 @@ users:
     pass: "DC3491819ds2SD2dD"
     commands:
       - ""
-  test:
-    value: 200
-    pass: "testt"
-    commands:
-      - "say For Help - Agrepna"
